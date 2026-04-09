@@ -23,3 +23,4 @@ else
     Console.WriteLine("Simulación de cadena de conexión:");
     Console.WriteLine(connectionString);
 }
+string stripe api key="sk_test_51N8m9sLh5nu9s8s8s8s8s8s8s8s8s8"
